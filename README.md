@@ -8,9 +8,13 @@ https://www.linkedin.com/posts/felipe-carvalho-01a8b1280_infosec-infosecurity-cy
 
 1- Core:
 Cisco Network Essentials - lnkd.in/eMXxFBPN
+
 Palo Alto - lnkd.in/ebz4VZmQ
+
 AWS Cloud - lnkd.in/e_auX7VE
+
 Azure Cloud - lnkd.in/eCq_dvDq
+
 GCP Cloud - lnkd.in/eDNWnVsD
 
 2- Fundamentals:

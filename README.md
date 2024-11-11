@@ -86,3 +86,83 @@ Secure Software Development - lnkd.in/ebGpA4wG
 Maryland Software Security - lnkd.in/e3z4zFmJ
 
 Stanford Cyber Resiliency - lnkd.in/eg9BM5Bv
+
+
+## 🚀 Microsoft is Offering FREE Courses!
+
+💻 No Fee, No Subscription, No Registration Required—Just Start Learning!
+
+🎓 Discover the Following Free Courses. 
+
+1. Microsoft Azure Fundamentals
+🔹 Course AZ-900T00
+🔹 24-Hour Course 
+🧪 Course Link: https://lnkd.in/d8XygMy8
+
+2. Microsoft Azure Administrator
+🔹 Course AZ-104T00
+🔹 96-Hour Course
+🧪 Course Link: https://lnkd.in/ds32UBjW
+🧪 Hands-on Labs: https://lnkd.in/dRxxETCT
+
+3. Configuring and Operating Microsoft Azure Virtual Desktop
+🔹 Course AZ-140
+🔹 96-Hour Course
+🧪 Course Link: https://lnkd.in/dvS88gCq
+
+4. Developing Solutions for Microsoft Azure
+🔹 Course AZ-204T00
+🔹 120-Hour Course
+🧪 Course Link: https://lnkd.in/dwhMCa3d
+
+5. Designing Microsoft Azure Infrastructure Solutions
+🔹 Course AZ-305T00
+🔹 96-Hour Course
+🧪 Course Link: https://lnkd.in/dvcizsEA
+
+6. Microsoft Azure Data Fundamentals
+🔹 Course DP-900T00
+🔹 24-Hour Course 
+🧪 Course Link: https://lnkd.in/dyuHKuHM
+
+7. Microsoft Azure AI Fundamentals
+🔹 Course AI-900T00
+🔹 24-Hour Course
+🧪 Course Link: https://lnkd.in/dBtqWGJS
+🧪 Hands-on Labs: https://lnkd.in/dRkGdWgJ
+
+8. Designing and Implementing a Microsoft Azure AI Solution
+🔹 Course AI-102T00
+🔹 96-Hour Course
+🧪 Course Link: https://lnkd.in/d696r_W5
+
+9. Develop Generative AI Solutions with Azure OpenAI Service
+🔹 Course AI-050T00
+🔹 24-Hour Course
+🧪 Course Link: https://lnkd.in/dMhRzaYj
+
+10. Microsoft Security, Compliance, and Identity Fundamentals
+🔹 Course SC-900T00
+🔹 24-Hour Course
+🧪 Course Link: https://lnkd.in/dYivZX87
+
+11. Data Engineering on Microsoft Azure
+🔹 Course DP-203T00
+🔹 96-Hour Course
+🧪 Course Link: https://lnkd.in/dkYYW-sG
+
+12. Microsoft Security Operations Analyst
+🔹 Course SC-200T00
+🔹 96-Hour Course
+🧪 Course Link: https://lnkd.in/dw-P6GC6
+🧪 Hands-on Labs: https://lnkd.in/dUq-n-B5
+
+13. Designing and Implementing Microsoft Azure Networking Solutions
+🔹 Course AZ-700T00
+🔹 72-Hour Course
+🧪 Course Link: https://lnkd.in/dDqjGrCY
+🧪 Hands-on Labs: https://lnkd.in/d59BEDX3
+
+Kindly repost to your network
+
+

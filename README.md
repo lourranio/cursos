@@ -168,3 +168,47 @@ https://www.linkedin.com/posts/anuradhasamaranayake_azure-cloudcomputing-cloudar
 Kindly repost to your network
 
 
+## Engenharia de Dados
+https://www.linkedin.com/posts/fabiomarcolia_se-voc%C3%AA-quer-estudar-para-engenheira-de-dados-activity-7261007347794202626-ASkD?utm_source=share&utm_medium=member_desktop
+
+Se você quer estudar para Engenheira de Dados, isso vai te ajudar
+
+Escolha um tema por dia da semana, não precisa ser tudo de uma vez.
+
+Cloud(Foque em uma)
+↳ AWS: https://lnkd.in/daAFfW_R
+↳ Azure:https://lnkd.in/dqSKJXxV
+↳ GCP: https://lnkd.in/dAyUn-Hb
+
+LAKES, DW
+↳ Delta: https://delta.io/blog/
+↳ Iceberg: https://lnkd.in/dCKVZqmx
+↳ Warehousing: https://lnkd.in/dxGVTSYs
+↳ Databricks: https://lnkd.in/dvHV3Yd2
+↳ Snowflakes: https://lnkd.in/dHC5bR8y
+
+SQL
+↳ Essencial: https://sqlbolt.com/
+↳ Avençado: https://lnkd.in/dBji3_HP
+↳ Desafios:(Leetcode,hackerrank)
+
+Python para Dados
+↳ Fundamentos: https://lnkd.in/dY8eTZks
+↳ PySpark: https://lnkd.in/dHFznNUS
+↳ Github: https://lnkd.in/d6-Nq56F
+
+Processamento/Orquestração
+↳ Airflow: https://lnkd.in/dWnrrG4n
+↳ DBT: https://lnkd.in/dep79P7e
+↳ DuckDB: https://lnkd.in/ddrU5gzu
+↳ Spark: https://lnkd.in/dWs_Fkgs
+
+ELT/ETL
+↳ NiFi: https://lnkd.in/dBYS5MRq
+↳ Airbyte: https://lnkd.in/dWfHfrd9
+
+Desafios/Portifólio
+↳ Portifólio: https://lnkd.in/dCpQ9k2H
+↳ Entrevistas: https://lnkd.in/dcGbPTnw
+
+Engenharia de Dados está por trás em tudo que você acessa dados, se especializar é uma ótima ideia.

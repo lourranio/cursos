@@ -90,6 +90,8 @@ Stanford Cyber Resiliency - lnkd.in/eg9BM5Bv
 
 ## 🚀 Microsoft is Offering FREE Courses!
 
+https://www.linkedin.com/posts/anuradhasamaranayake_azure-cloudcomputing-cloudarchitect-activity-7259451952860725249-t2kR?utm_source=share&utm_medium=member_desktop
+
 💻 No Fee, No Subscription, No Registration Required—Just Start Learning!
 
 🎓 Discover the Following Free Courses. 

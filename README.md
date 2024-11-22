@@ -241,3 +241,12 @@ https://www.linkedin.com/posts/ouardi-mohamed-hamdi_share-someone-needs-it-%F0%9
 20. Intellipaat - https://lnkd.in/gdTwjAeC
 
 🔗Thank you for sharing: Ariful Islam
+
+
+## TYPES OF DATABASES
+
+img/types-of-databases-1732127129518.gif
+
+![image 1](img/types-of-databases-1732127129518.gif "Image 1")
+
+[image 1](img/types-of-databases-1732127129518.gif "Image 1")

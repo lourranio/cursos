@@ -247,9 +247,11 @@ https://www.linkedin.com/posts/ouardi-mohamed-hamdi_share-someone-needs-it-%F0%9
 
 ![image 1](img/types-of-databases-1732127129518.gif "Image 1")
 
-![image](img/types-of-databases-1732127129518.gif "Title" {width=40px height=400px})
+![image 2](img/types-of-databases-1732127129518.gif "image 2" {width=40px height=400px})
 
-![image](img/types-of-databases-1732127129518.gif "Title" {width=50% height=50%})
+![image 3](img/types-of-databases-1732127129518.gif "image 3" {width=50% height=50%})
+
+<img src="img/types-of-databases-1732127129518.gif" width=50% height=50%>
 
 ## FERRAMENTAS DE INTELIGÊNCIA ARTIFICIAL POUCO CONHECIDAS MAS ÚTEIS
 

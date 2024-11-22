@@ -257,20 +257,29 @@ https://www.linkedin.com/posts/ouardi-mohamed-hamdi_share-someone-needs-it-%F0%9
 
 https://www.linkedin.com/posts/fabiano-rodrigueskwe_ferramentas-de-intelig%C3%AAncia-artificial-pouco-ugcPost-7265744450075648001-iq5T?utm_source=share&utm_medium=member_desktop
 
-SheetGPT - https://sheetgpt.ai
-FlexClip - https://www.flexclip.com
-Texti AI - https://texti.app
-Vidnoz AI - https://vidnoz.com
-Krea AI - https://krea.ai/home
-Dorsia AI - https://dorsia.com
-MagicStudio - https://magicstudio.com
+1. SheetGPT - https://sheetgpt.ai
+
+2. FlexClip - https://www.flexclip.com
+
+3. Texti AI - https://texti.app
+
+4. Vidnoz AI - https://vidnoz.com
+
+5. Krea AI - https://krea.ai/home
+
+6. Dorsia AI - https://dorsia.com
+
+7. MagicStudio - https://magicstudio.com
 
 ——————————————————————
-📙EBOOK: +1.800 PROMPTS PARA DIVERSAS ÁREAS DE NEGÓCIOS
+### 📙EBOOK: +1.800 PROMPTS PARA DIVERSAS ÁREAS DE NEGÓCIOS
+
 Acesse esse combo com 5 eBooks:
+
 Link: https://lnkd.in/dTWc759N
 
-📙EBOOK: +2.100 PROMPTS PARA IMAGEM
+### 📙EBOOK: +2.100 PROMPTS PARA IMAGEM
+
 Acesse aqui: https://lnkd.in/eaCuvCjc
 
 

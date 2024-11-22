@@ -245,8 +245,30 @@ https://www.linkedin.com/posts/ouardi-mohamed-hamdi_share-someone-needs-it-%F0%9
 
 ## TYPES OF DATABASES
 
-img/types-of-databases-1732127129518.gif
-
 ![image 1](img/types-of-databases-1732127129518.gif "Image 1")
 
-[image 1](img/types-of-databases-1732127129518.gif "Image 1")
+![image](img/types-of-databases-1732127129518.gif "Title" {width=40px height=400px})
+
+![image](img/types-of-databases-1732127129518.gif "Title" {width=50% height=50%})
+
+## FERRAMENTAS DE INTELIGÊNCIA ARTIFICIAL POUCO CONHECIDAS MAS ÚTEIS
+
+https://www.linkedin.com/posts/fabiano-rodrigueskwe_ferramentas-de-intelig%C3%AAncia-artificial-pouco-ugcPost-7265744450075648001-iq5T?utm_source=share&utm_medium=member_desktop
+
+SheetGPT - https://sheetgpt.ai
+FlexClip - https://www.flexclip.com
+Texti AI - https://texti.app
+Vidnoz AI - https://vidnoz.com
+Krea AI - https://krea.ai/home
+Dorsia AI - https://dorsia.com
+MagicStudio - https://magicstudio.com
+
+——————————————————————
+📙EBOOK: +1.800 PROMPTS PARA DIVERSAS ÁREAS DE NEGÓCIOS
+Acesse esse combo com 5 eBooks:
+Link: https://lnkd.in/dTWc759N
+
+📙EBOOK: +2.100 PROMPTS PARA IMAGEM
+Acesse aqui: https://lnkd.in/eaCuvCjc
+
+

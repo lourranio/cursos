@@ -217,6 +217,8 @@ Engenharia de Dados está por trás em tudo que você acessa dados, se especiali
 
 ## 𝗧𝗼𝗽 𝟮𝟬 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀 𝘁𝗼 𝗟𝗲𝗮𝗿𝗻 𝗟𝗶𝗻𝘂𝘅 𝗙𝗼𝗿 𝗙𝗥𝗘𝗘
 
+https://www.linkedin.com/posts/ouardi-mohamed-hamdi_share-someone-needs-it-%F0%9D%97%A7%F0%9D%97%BC%F0%9D%97%BD-%F0%9D%9F%AE%F0%9D%9F%AC-activity-7265349962723442688-IEGT?utm_source=share&utm_medium=member_desktop
+
 1. Linux Journey - https://linuxjourney.com/
 2. Linux Hint - https://linuxhint.cc/
 3. LinuxOPsys - https://linuxopsys.com/
@@ -237,4 +239,5 @@ Engenharia de Dados está por trás em tudo que você acessa dados, se especiali
 18. Debian - https://lnkd.in/ghW_kvyw
 19. Cyberciti - https://lnkd.in/gq2XSeUz
 20. Intellipaat - https://lnkd.in/gdTwjAeC
+
 🔗Thank you for sharing: Ariful Islam

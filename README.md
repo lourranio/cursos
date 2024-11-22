@@ -212,3 +212,29 @@ Desafios/Portifólio
 ↳ Entrevistas: https://lnkd.in/dcGbPTnw
 
 Engenharia de Dados está por trás em tudo que você acessa dados, se especializar é uma ótima ideia.
+
+
+
+## 𝗧𝗼𝗽 𝟮𝟬 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀 𝘁𝗼 𝗟𝗲𝗮𝗿𝗻 𝗟𝗶𝗻𝘂𝘅 𝗙𝗼𝗿 𝗙𝗥𝗘𝗘
+
+1. Linux Journey - https://linuxjourney.com/
+2. Linux Hint - https://linuxhint.cc/
+3. LinuxOPsys - https://linuxopsys.com/
+4. Tecmint - https://www.tecmint.com/
+5. Nixcraft - https://www.nixcraft.com/
+6. Linux Command - https://lnkd.in/gggWR9zH
+7. Linux Handbook - https://linuxhandbook.com/
+8. Linux Survival - https://linuxsurvival.com/
+9. Linuxize - https://linuxize.com/
+10. FOSS Linux - https://www.fosslinux.com/
+11. It's FOSS - https://itsfoss.com/
+12. Ryan's Tutorial - https://lnkd.in/geZECats
+13. LabeX - https://lnkd.in/gcQWKNTD
+14. Digital Ocean - https://lnkd.in/grVgtT7v
+15. Guru99 - https://lnkd.in/gcakheJK
+16. Eduonix - https://lnkd.in/gFU-nX6e
+17. TLDP - https://lnkd.in/gnNG_w4c
+18. Debian - https://lnkd.in/ghW_kvyw
+19. Cyberciti - https://lnkd.in/gq2XSeUz
+20. Intellipaat - https://lnkd.in/gdTwjAeC
+🔗Thank you for sharing: Ariful Islam

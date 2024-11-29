@@ -8,13 +8,13 @@ https://www.linkedin.com/posts/felipe-carvalho-01a8b1280_infosec-infosecurity-cy
 
 ### 1- Core:
 
-Cisco Network Essentials - lnkd.in/eMXxFBPN
+Cisco Network Essentials - https://www.netacad.com/courses/networking/networking-essentials
 
-Palo Alto - lnkd.in/ebz4VZmQ
+Palo Alto - https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses
 
-AWS Cloud - lnkd.in/e_auX7VE
+AWS Cloud (AWS Skill Builder) - https://explore.skillbuilder.aws/learn/signin
 
-Azure Cloud - lnkd.in/eCq_dvDq
+Azure Cloud (Microsoft Learn Challenge) - https://learn.microsoft.com/en-us/training/azure/
 
 GCP Cloud - lnkd.in/eDNWnVsD
 

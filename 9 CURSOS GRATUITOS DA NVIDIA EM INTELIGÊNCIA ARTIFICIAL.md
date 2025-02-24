@@ -1,4 +1,4 @@
-## 9 Cursos Gratuitos da NVIDIA em Inteligência Artificial
+# 9 Cursos Gratuitos da NVIDIA em Inteligência Artificial
 
 
 ![img](https://media.licdn.com/dms/image/v2/D4E22AQGZN1PXG9NsJA/feedshare-shrink_2048_1536/B4EZUOpSs7H0Ao-/0/1739707462024?e=1743033600&v=beta&t=N0ZQPnzSZBnFIUKHwy2e1BsGaqgU3obxM3nkPduB9i8)[/img]

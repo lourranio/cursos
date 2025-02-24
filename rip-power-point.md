@@ -1,5 +1,7 @@
 # RIP Powerpoint?
 
+link: https://www.linkedin.com/posts/altiamkabir_ai-chatgpt-powerpoint-activity-7291349588613959681-1Ol1
+
 No more wasted time on design work and tutorials.
 
 ## Top 15 AI websites that can create presentations in just 60 seconds!

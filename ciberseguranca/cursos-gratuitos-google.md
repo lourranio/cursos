@@ -8,36 +8,35 @@ Se você almeja ingressar na área de Segurança Cibernética, se tornar um Anal
 O Google lançou um programa completo com 8 cursos gratuitos, 100% práticos, projetados para capacitar profissionais com as competências mais demandadas do mercado. Você vai aprender através de laboratórios realistas, simulações de incidentes e exercícios que replicam o dia a dia de um SOC.
 
 ► O que você vai dominar:
-Detecção e resposta a ameaças
-Resposta a incidentes de segurança
-Criação e gestão de regras SIEM
-Automação com SOAR
+* Detecção e resposta a ameaças
+* Resposta a incidentes de segurança
+* Criação e gestão de regras SIEM
+* Automação com SOAR
 E muito mais!
 
 📘 Confira a lista completa de cursos:
-Fundamentos da Operação de Segurança do Google
+1. Fundamentos da Operação de Segurança do Google
 🔗 https://lnkd.in/exvHk6h2
 
-Operações de Segurança do Google - Deep Dive
+2. Operações de Segurança do Google - Deep Dive
 🔗 https://lnkd.in/e3kiJ93J
 
-Operações de Segurança Modernas
+3. Operações de Segurança Modernas
 🔗 https://lnkd.in/eWYR6tpc
 
-Práticas de Segurança com o Google Security Operations – SIEM
+4. Práticas de Segurança com o Google Security Operations – SIEM
 🔗https://lnkd.in/dHXM-PWd
 
-Fundamentos do SOAR
+5. Fundamentos do SOAR
 🔗 https://lnkd.in/euSH2QVi
 
-Operações de Segurança do Google - Regras SIEM
+6. Operações de Segurança do Google - Regras SIEM
 🔗 https://lnkd.in/ei6i5DPB
 
-Operações de Segurança do Google – Analista SOAR
+7. Operações de Segurança do Google – Analista SOAR
 🔗 https://lnkd.in/enyrV4p7
 
-Operações de Segurança do Google – Desenvolvedor SOAR
-
+8. Operações de Segurança do Google – Desenvolvedor SOAR
 🔗 https://lnkd.in/ewTJiF68
 
 💡 Dica profissional: Escolha um curso para começar, pratique imediatamente com os laboratórios e inclua essa certificação no seu LinkedIn! Este é o caminho para dominar as habilidades que as empresas realmente valorizam.

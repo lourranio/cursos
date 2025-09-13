@@ -17,19 +17,27 @@ E muito mais!
 📘 Confira a lista completa de cursos:
 Fundamentos da Operação de Segurança do Google
 🔗 https://lnkd.in/exvHk6h2
+
 Operações de Segurança do Google - Deep Dive
 🔗 https://lnkd.in/e3kiJ93J
+
 Operações de Segurança Modernas
 🔗 https://lnkd.in/eWYR6tpc
+
 Práticas de Segurança com o Google Security Operations – SIEM
 🔗https://lnkd.in/dHXM-PWd
+
 Fundamentos do SOAR
 🔗 https://lnkd.in/euSH2QVi
+
 Operações de Segurança do Google - Regras SIEM
 🔗 https://lnkd.in/ei6i5DPB
+
 Operações de Segurança do Google – Analista SOAR
 🔗 https://lnkd.in/enyrV4p7
+
 Operações de Segurança do Google – Desenvolvedor SOAR
+
 🔗 https://lnkd.in/ewTJiF68
 
 💡 Dica profissional: Escolha um curso para começar, pratique imediatamente com os laboratórios e inclua essa certificação no seu LinkedIn! Este é o caminho para dominar as habilidades que as empresas realmente valorizam.

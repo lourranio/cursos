@@ -30,3 +30,8 @@ Esses projetos simulam cenários reais de SOC, exatamente os mesmos que você en
 
 img/todo-analista-de-soc-precisa-ver-isso.jpeg
 [img]img/todo-analista-de-soc-precisa-ver-isso.jpeg[/img]
+
+![](img/todo-analista-de-soc-precisa-ver-isso.jpeg)
+![](img/todo-analista-de-soc-precisa-ver-isso.jpeg)
+
+![](https://github.com/lourranio/cursos/blob/2932e993e08c5f545b4334fdacda0cc52a3443fc/img/todo-analista-de-soc-precisa-ver-isso.jpeg)

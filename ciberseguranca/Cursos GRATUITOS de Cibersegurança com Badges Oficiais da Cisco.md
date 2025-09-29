@@ -3,12 +3,15 @@ Autor: Daniel B.
 
 link : https://www.linkedin.com/posts/danielbastosbr_ciberseguranca-cybersecurity-free-activity-7375686706425040896-7BZQ
 
+
 A Cisco liberou 4 cursos online, 100% gratuitos, com direito a certificados digitais oficiais.
+
 
 ✅ Sem cartão de crédito
 ✅ Sem custo oculto
 ✅ Conteúdo prático com laboratórios reais
 ✅ Badges oficiais para colocar no seu LinkedIn
+
 
 📚 Confira as opções: 👇
 
@@ -17,6 +20,7 @@ A Cisco liberou 4 cursos online, 100% gratuitos, com direito a certificados digi
 ⏱️ 6h | 👶 Iniciante | 🧪 7 Labs | 🎓 Autônomo
 
 🔗 Acessar curso: https://lnkd.in/dGxxn2-x
+
 
 2️⃣ Gestão de Ameaças Cibernéticas
 

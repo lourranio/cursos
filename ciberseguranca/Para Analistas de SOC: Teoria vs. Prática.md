@@ -25,3 +25,8 @@ Sabia que a diferença entre um bom analista e um excelente está na prática? D
 
 📌 Por que isso é crucial?
 Esses projetos simulam cenários reais de SOC, exatamente os mesmos que você encontrará no dia a dia. Ideal para fortalecer seu portfólio e se destacar em processos seletivos de Blue Team.
+
+
+
+img/todo-analista-de-soc-precisa-ver-isso.jpeg
+[img]img/todo-analista-de-soc-precisa-ver-isso.jpeg[/img]

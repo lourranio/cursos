@@ -17,11 +17,11 @@ A Cisco liberou 4 cursos online, 100% gratuitos, com direito a certificados digi
 
 1️⃣ Introdução à Cibersegurança
 
-`
+<pre>
 ⏱️ 6h | 👶 Iniciante | 🧪 7 Labs | 🎓 Autônomo
 
 🔗 Acessar curso: https://lnkd.in/dGxxn2-x
-`
+</pre>
 
 2️⃣ Gestão de Ameaças Cibernéticas
 
